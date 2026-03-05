@@ -53,3 +53,5 @@ const server = http.createServer(async (req, res) => {
 server.listen(PORT, function () {
   console.log("Running on http://localhost:" + PORT);
 });
+
+console.log("No entiendo esto pero voy a hacer como si lo entendiera")
